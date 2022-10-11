@@ -1,5 +1,5 @@
 export const DSN =
-  'https://3d19b89ce4774ad2b429b09a9375fbbb@o87286.ingest.sentry.io/5716557';
+  'https://7a4739c6e98545199a53be47c8723a8b@o1347124.ingest.sentry.io/4503965615849472';
 
 export const BACKEND_URL = 
   'https://application-monitoring-flask-dot-sales-engineering-sf.appspot.com'
